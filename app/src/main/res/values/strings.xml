@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FragmentProject</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">This is blank fragment</string>
+    <string name="main_page">Main page</string>
+    <string name="favorites">Favorites</string>
+    <string name="card">Card</string>
+    <string name="hello_main_fragment">This is main fragment</string>
+    <string name="hello_favorites_fragment">This is favorites fragment</string>
+    <string name="hello_card_fragment">This is card fragment</string>
+</resources>
